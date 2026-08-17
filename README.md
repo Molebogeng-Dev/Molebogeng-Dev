@@ -1,5 +1,6 @@
 # 💫 About Me:
 Molebogeng Lehlogonolo Selahle<br><br>Resourceful and continuous-learning Junior Developer with a strong focus on building robust applications and optimizing technical environments. Proficient in Python, Java, C, and SQL, with hands-on experience in modern deployment workflows including Docker and CI/CD pipelines. A self-starter with a proven ability to independently troubleshoot systems and a demonstrated track record of strong communication and project management through digital content creation.<br><br>Technical SkillsProgramming Languages: Python, Java, C, SQL  Operating Systems: Linux (Mint XFCE), Windows  Tools & Methodologies: Git, GitHub, GitLab CI/CD, Docker, Object-Oriented Programming (OOP)  <br><br>Projects & Certifications (In Progress)<br><br>    Koko Web App & Personal Portfolio Website: Actively developing full-stack web applications to solidify software engineering principles.
+NQF Level 6 Occupational Certificate in Software Engineering | WeThinkCode_
 
 
 ## 🌐 Socials:
